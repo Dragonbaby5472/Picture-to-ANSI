@@ -1,11 +1,12 @@
 <div align="center">
   <h1>pic_to_ansi.py</h1>
-  <p><strong>Convert images to ANSI true-color art<code>$display</code> tasks.</strong></p>
+  <p><strong>Convert images to ANSI true-color art and optional Verilog <code>$display</code> tasks.</strong></p>
   <p>
     <img alt="Python" src="https://img.shields.io/badge/python-3.8%2B-blue.svg">
     <img alt="Output" src="https://img.shields.io/badge/output-ANSI%20%7C%20Verilog-2ea44f">
     <img alt="Default mode" src="https://img.shields.io/badge/default-auto-orange">
     <img alt="Default file" src="https://img.shields.io/badge/default_file-.ans-8a2be2">
+    <img alt="License" src="https://img.shields.io/badge/license-Apache%202.0-blue">
   </p>
 </div>
 
@@ -231,3 +232,6 @@ endmodule
 
 ## License
 
+This project is licensed under the Apache License 2.0.
+
+See the [`LICENSE`](LICENSE) file for details.
