@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>pic_to_ansi.py</h1>
+  <h1>Picture to ANSI</h1>
   <p><strong>Convert images to ANSI true-color art and optional Verilog <code>$display</code> tasks.</strong></p>
   <p>
     <img alt="Python" src="https://img.shields.io/badge/python-3.8%2B-blue.svg">
